@@ -8,7 +8,7 @@ $API_KEY = "12912847765bc0db748fdd44.40081707";
         
 $SITE_ID = "445160";
 
-$URL = "https://new-api.cinetpay.ci/v2/payment";
+$URL = "https://api-checkout.cinetpay.com/v2/payment";
 
 $amount = 100; // $_POST["amount"];
 
